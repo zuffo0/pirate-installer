@@ -1,0 +1,32 @@
+~~~~~~This is a list of all games avaiable in pirate installer by id~~~~~~
+if you need help to find a game,click CTRL+F and type game name
+------------------------------------------------------------------------------
+
+0-Terraria v1.4.4.9.v4
+1-Need For Speed - Most Wanted
+2-Grand Theft Auto III
+3-Grand Theft Auto San Andreas
+4-Subnautica v67383
+5-Five Nights At Freddy's 3
+6-Abzu
+7-The Forest
+8-Five Nights At Freddy's 1
+9-Five Nights At Freddy's 2
+10-Dont Starve
+11-Dont Starve Together
+12-Five Nights At Freddy's 4
+13-Five Nights At Freddy's: Sister Location (FNAF 5)
+14-Hue
+15-Subnautica v71668
+16-Subnautica Below Zero v49550
+17-Birth
+18-Pizza Tower
+19-Stardew Valley
+20-Factorio
+21-7 Days to Die
+22-Rimworld
+23-People Playground
+24-Lethal Company
+25-Mechanica.v1.2.3.2 Multiplayer
+26-No Oxygen Included
+27-Project Zomboid Build 41

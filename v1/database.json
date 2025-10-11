@@ -1,0 +1,282 @@
+[
+    {
+        "id": 0,
+        "name": "Terraria",
+        "version": "v1.4.4.9.v4",
+        "filesize": "503.71 MB",
+        "mediafirelink": "https://www.mediafire.com/file/z537rywpsprfgba/Terraria(v1.4.4.9.v4)+By+RafaYoshi.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"   
+    },
+    {
+        "id": 1,
+        "name": "Need For Speed - Most Wanted",
+        "version": "",
+        "filesize": "2.11 GB",
+        "mediafirelink": "https://www.mediafire.com/file/24mxjbvfiol8bns/Need_For_Speed_-_Most_Wanted.zip/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 2,
+        "name": "Grand Theft Auto III",
+        "version": "",
+        "filesize": "638.1 MB",
+        "mediafirelink": "https://www.mediafire.com/file/58r21ykcvdvk5d2/Grand+Theft+Auto+III.rar",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 3,
+        "name": "Grand Theft Auto San Andreas",
+        "version": "",
+        "filesize": "713.87 MB",
+        "mediafirelink": "https://www.mediafire.com/file/gydj8dd9xe63y7a/GTA_Sanandreas.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 4,
+        "name": "Subnautica",
+        "version": "67383",
+        "filesize": "3.65 GB",
+        "mediafirelink": "",
+        "megalink": "",
+        "googlelink": "https://drive.google.com/uc?id=1EHesVYWpAMeI4EjTGKOibWMDXdUnZzEY&export=download",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 5,
+        "name": "Five Nights At Freddy's 3",
+        "version": "",
+        "filesize": "113 MB",
+        "mediafirelink": "https://www.mediafire.com/file/wtazl63yswr3ic9/Five.Nights.at.Freddys.3.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 6,
+        "name": "Abzu",
+        "version": "",
+        "filesize": "1.11 GB",
+        "mediafirelink": "https://www.mediafire.com/file/qwdou0qc35bgvzu/ABZU.v08.12.2020.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 7,
+        "name": "The Forest (Windows Defender Detect at virus)",
+        "version": "",
+        "filesize": "3.77 GB",
+        "mediafirelink": "https://www.mediafire.com/file/630uvoqwj1l6vic/The.Forest.v1.12.rar",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 8,
+        "name": "Five Nights At Freddy's 1",
+        "version": "",
+        "filesize": "224 MB",
+        "mediafirelink": "https://www.mediafire.com/file/rrh6qf24acsylkc/Five.Nights.at.Freddys.v1.132.zip/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 9,
+        "name": "Five Nights At Freddy's 2",
+        "version": "",
+        "filesize": "211 MB",
+        "mediafirelink": "https://www.mediafire.com/file/njxk63qfbth0edz/Five.Nights.at.Freddys.2.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 10,
+        "name": "Dont Starve",
+        "version": "",
+        "filesize": "1.97 GB",
+        "mediafirelink": "https://www.mediafire.com/file/l5ljy31477aosd3/Dont.Starve.v379591.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 11,
+        "name": "Dont Starve Together",
+        "version": "",
+        "filesize": "2.11 GB",
+        "mediafirelink": "https://www.mediafire.com/file/awzvvcc4w18s5z2/Dont.Starve.Together.v556225.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 12,
+        "name": "Five Nights At Freddy's 4",
+        "version": "",
+        "filesize": "498 MB",
+        "mediafirelink": "https://www.mediafire.com/file/4gudiqlt2vsqjvv/Five.Nights.at.Freddys.4.v1.022.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 13,
+        "name": "Five Nights At Freddy's: Sister Location (Five Nights At Freddy's 5)",
+        "version": "",
+        "filesize": "914 MB",
+        "mediafirelink": "https://www.mediafire.com/file/kz4i7tkm9n2ka5v/Five.Nights.at.Freddys.Sister.Location.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 14,
+        "name": "Hue",
+        "version": "",
+        "filesize": "103 MB",
+        "mediafirelink": "https://www.mediafire.com/file/oh4689u08s5bl98/Hue.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 15,
+        "name": "Subnautica",
+        "version": "71668",
+        "filesize": "3.32 GB",
+        "mediafirelink": "https://www.mediafire.com/file/f893xhzl0ynn1g0/Subnautica.v24.05.2023.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 16,
+        "name": "Subnautica Below Zero",
+        "version": "49550",
+        "filesize": "5.14 GB",
+        "mediafirelink": "https://www.mediafire.com/file/226mqvsxr9r9bnl/Subnautica.Below.Zero.v24.05.2023.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 17,
+        "name": "Birth",
+        "version": "",
+        "filesize": "366.64 MB",
+        "mediafirelink": "https://www.mediafire.com/file/h6vjygmjf4sjb25/Birth.v1.4.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 18,
+        "name": "Pizza Tower",
+        "version": "",
+        "filesize": "179 MB",
+        "mediafirelink": "https://www.mediafire.com/file/eofc36ozxf5obvp/Pizza.Tower.v1.0.311.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 19,
+        "name": "Stardew Valley",
+        "version": "",
+        "filesize": "439 MB",
+        "mediafirelink": "https://www.mediafire.com/file/32amt63xxbzbjqi/Stardew.Valley.v1.5.6H3.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 20,
+        "name": "Factorio",
+        "version": "v2.0.20",
+        "filesize": "4.27 GB",
+        "mediafirelink": "https://www.mediafire.com/file/1a3sfg77ptjbx0x/Factorio.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 21,
+        "name": "7 Days To Die",
+        "version": "Alpha 15.1.X86",
+        "filesize": "1.29 GB",
+        "mediafirelink": "https://www.mediafire.com/file/q5oq0euhzav3kbu/7.Days.To.Die.Alpha.15.1.X86.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 22,
+        "name": "Rimworld",
+        "version": "v1.5.4048",
+        "filesize": "330 MB",
+        "mediafirelink": "https://www.mediafire.com/file/1hz9bfvtg8ol3u0/RimWorld.v1.5.4048.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 23,
+        "name": "People Playground",
+        "version": "1.27.5",
+        "filesize": "164 MB",
+        "mediafirelink": "https://www.mediafire.com/file/o3pkoezdmu6glpx/People.Playground.v1.27.5.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 24,
+        "name": "Lethal Company",
+        "version": "v68 (online-fix.me)",
+        "filesize": "428 MB",
+        "mediafirelink": "https://www.mediafire.com/file/gr9x2y47cd56e2l/Lethal_Company.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"
+    },
+    {
+        "id": 25,
+        "name": "Mechanica",
+        "version": "v1.1.9",
+        "filesize": "478 MB",
+        "mediafirelink": "https://www.mediafire.com/file/rby491ozymzpx5q/Mechanica.v1.1.9.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"   
+    },
+    {
+        "id": 26,
+        "name": "No Oxygen Included",
+        "version": "v596100",
+        "filesize": "1.09 GB",
+        "mediafirelink": "https://www.mediafire.com/file/8po0nbgoqystqng/Oxygen+Not+Included+v596100.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"   
+    },
+    {
+        "id": 27,
+        "name": "Project Zomboid",
+        "version": "Build 41.78.16",
+        "filesize": "2.39 GB",
+        "mediafirelink": "https://www.mediafire.com/file/icmy4ajbx67p0g7/Project.Zomboid.v41.78.16.rar/file",
+        "megalink": "",
+        "googlelink": "",
+        "browserinstallermode": "True"   
+    }
+]
