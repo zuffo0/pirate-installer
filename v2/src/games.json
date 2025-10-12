@@ -39,6 +39,13 @@
                     "dlc": "False",
                     "gamelength": "6.62 GB",
                     "dateadded": "30/01/2025"
+                },
+                {
+                    "version": "15/08/2025 | 82304",
+                    "downloadlink": "https://www.mediafire.com/file/ga1snxlrdfqdtu9/",
+                    "dlc": "False",
+                    "gamelength": "6.56 GB",
+                    "dateadded": "11/10/2025"
                 }
             ]
         }
@@ -106,6 +113,13 @@
                     "dlc": "True",
                     "gamelength": "653 MB",
                     "dateadded": "30/01/2025"
+                },
+                {
+                    "version": "1.6.15",
+                    "downloadlink": "https://www.mediafire.com/file/wrtptkfga743dpc/",
+                    "dlc": "True",
+                    "gamelength": "924 MB",
+                    "dateadded": "11/10/2025"
                 }
             ]
         }
@@ -150,6 +164,13 @@
                     "dlc": "False",
                     "gamelength": "1.12 GB",
                     "dateadded": "08/02/2025"
+                },
+                {
+                    "version": "72",
+                    "downloadlink": "https://www.mediafire.com/file/gl1n9inx6toergk/",
+                    "dlc": "False",
+                    "gamelength": "1.38 GB",
+                    "dateadded": "11/10/2025"
                 }
             ]
         }
@@ -165,6 +186,13 @@
                     "dlc": "False",
                     "gamelength": "894 MB",
                     "dateadded": "08/02/2025"
+                },
+                {
+                    "version": "1.6.15 Online Fix",
+                    "downloadlink": "https://www.mediafire.com/file/sezosh5v395k8ml/",
+                    "dlc": "False",
+                    "gamelength": "905 MB",
+                    "dateadded": "11/10/2025"
                 }
             ]
         }
@@ -210,6 +238,13 @@
                     "dlc": "False",
                     "gamelength": "1.86 GB",
                     "dateadded": "08/02/2025"
+                },
+                {
+                    "version": "Build v16d",
+                    "downloadlink": "https://www.mediafire.com/file/dgkpkknlx7s7bnw/",
+                    "dlc": "False",
+                    "gamelength": "2.66 GB",
+                    "dateadded": "11/10/2025"
                 }
             ]
         }
@@ -262,6 +297,13 @@
                     "dlc": "True",
                     "gamelength": "2.93 GB",
                     "dateadded": "08/02/2025"
+                },
+                {
+                    "version": "1.34.47.0 - ONLINE-FIX",
+                    "downloadlink": "https://www.mediafire.com/file/70d5xwsulu1nk6c/",
+                    "dlc": "False",
+                    "gamelength": "2.92 GB",
+                    "dateadded": "12/10/2025"
                 }
             ]
         }
@@ -299,6 +341,13 @@
                     "dlc": "False",
                     "gamelength": "10.3 GB",
                     "dateadded": "08/02/2025"
+                },
+                {
+                    "version": "42.12.0",
+                    "downloadlink": "https://www.mediafire.com/file/vut4do6sccf0du6/",
+                    "dlc": "False",
+                    "gamelength": "9.63 GB",
+                    "dateadded": "12/10/2025"
                 }
             ]
         }
@@ -314,6 +363,36 @@
                     "dlc": "False",
                     "gamelength": "5.07 GB",
                     "dateadded": "08/02/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "gamename": "Hollow Knight Silksong",
+        "game": {
+            "versions": [
+                {
+                    "version": "v1.0.28877",
+                    "downloadlink": "https://www.mediafire.com/file/g5u2p7jm27ijvwe/",
+                    "dlc": "False",
+                    "gamelength": "9.77 GB",
+                    "dateadded": "11/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "gamename": "Left 4 Dead 2",
+        "game": {
+            "versions": [
+                {
+                    "version": "2.2.4.3",
+                    "downloadlink": "https://www.mediafire.com/file/7uqxlo5bgz9ybaf/",
+                    "dlc": "False",
+                    "gamelength": "14 GB",
+                    "dateadded": "12/10/2025"
                 }
             ]
         }

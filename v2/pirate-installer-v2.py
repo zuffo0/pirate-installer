@@ -3,45 +3,64 @@
 import json
 from os import system, name as osname
 from time import sleep
-try:
-    import requests
-    from pystyle import Colorate, Colors
-except:
-    print('Installing dependencies...')
-    print()
-    system('pip install requests pystyle')
-finally:
-    import requests
-    from pystyle import Colorate, Colors
-system('cls') if osname == 'nt' else system('clear')
+import importlib
+
+libs=["httpx","pystyle"]
+libsmissing=[]
+for l in libs:
+    try:
+        importlib.import_module(l)
+    except:
+        libsmissing.append(l)
+
+if libsmissing:
+    print(f'Libraries missing, do "pip install -r requirements.txt" to install.')
+    print("Libraries missing:")
+    print(*libsmissing)
+    input("Press enter to exit.")
+    exit(1)
+
+from httpx import get
+from pystyle import Colorate, Colors
+
+def printcolor(text,end="\n"):
+    print(Colorate.Horizontal(Colors.blue_to_purple,text,1),end=end)
+def printerror(text):
+    print(Colorate.Color(Colors.red,text,1))
+def printgreen(text):
+    print(Colorate.Color(Colors.green,text,1))
+def clear():
+    system("cls" if osname=="nt" else "clear")
+
 print('Verifing connection with network...')
-print()
 while True:
     try:
-        requests.get("https://google.com")
+        get("https://google.com")
         break
     except:
-        print("No connection with network, trying again...")
+        printerror("No connection with network, trying again...")
+printgreen("Connected!")
 
 #verify updates
 version=open('src/version')
 version=version.read().strip()
 dbversion=open('src/dbversion','r')
 dbversion=dbversion.read().strip()
-gitversion = requests.get('https://raw.githubusercontent.com/zufinho/pirate-installer/refs/heads/main/v2/src/version').text.strip()
-gitdbversion = requests.get('https://raw.githubusercontent.com/zufinho/pirate-installer/refs/heads/main/v2/src/dbversion').text.strip()
+gitversion = get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/version').text.strip()
+gitdbversion = get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/dbversion').text.strip()
 if version!=gitversion:
-    print('New client installer avaible, install? (y/n)')
+    printgreen('New client installer avaiable, install? (y/n)')
+    print(f"Your version: {version}\nGithub version: {gitversion}")
     cmd=input(">")
     go=0
     try:
         cmd=str(cmd)
         go=1
     except:
-        print('Insert only letters')
+        print('Write only letters.')
     if go==1:
         if cmd.lower()=='y':
-            program=requests.get('https://raw.githubusercontent.com/zufinho/pirate-installer/refs/heads/main/v2/pirate-installer-v2.py').text
+            program=get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/pirate-installer-v2.py').text
             with open('pirate-installer-v2.py','w') as file:
                 file.write(program)
             with open('src/version','w') as file:
@@ -55,7 +74,8 @@ if version!=gitversion:
             del program
             exit()
 if dbversion!=gitdbversion:
-    print('New games database update avaible, install? (y/n)')
+    printgreen('New database update avaiable, install? (y/n)')
+    print(f"Your version: {dbversion}\nGithub version: {gitdbversion}")
     cmd=input(">")
     go=0
     try:
@@ -65,7 +85,7 @@ if dbversion!=gitdbversion:
         print('Insert only letters')
     if go==1:
         if cmd.lower()=='y':
-            gitdb=requests.get('https://raw.githubusercontent.com/zufinho/pirate-installer/refs/heads/main/v2/src/games.json').text
+            gitdb=get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/games.json').text
             with open('src/games.json','w') as file:
                 file.write(gitdb)
             with open('src/dbversion','w') as file:
@@ -75,18 +95,6 @@ if dbversion!=gitdbversion:
             del gitdb
 
 del gitdbversion, gitversion
-
-def printcolor(text,end="\n"):
-    print(Colorate.Horizontal(Colors.blue_to_purple,text,1),end=end)
-def printerror(text):
-    print(Colorate.Color(Colors.red,text,1))
-def printgreen(text):
-    print(Colorate.Color(Colors.green,text,1))
-def clear():
-    if osname=="nt":
-        system("cls")
-    else:
-        system("clear")
 banner=r'''
  ______ _                         _                      _ _             
 (_____ (_)           _           (_)           _        | | |            
@@ -97,7 +105,8 @@ banner=r'''
 
 
 >Made and Scripted by zufinho
->https://github.com/zufinho'''
+>https://github.com/zuffo0
+'''
 #script starts
 
 
@@ -119,10 +128,10 @@ def searchgame(name):
         go=1
     except:
         printerror('Please insert only string')
-        sleep(3)
+        sleep(1.5)
     if name=="" or name==" ":
         printerror("Insert game name!")
-        sleep(3)
+        sleep(1.5)
         go=0
     if go==1:
         printcolor(f'Searching games with name "{name}"')
@@ -162,11 +171,11 @@ def getgame(id):
             printgreen('Game Found!\n')
             break
     if found==1:
-        sleep(1.5)
+        sleep(1)
         return gamejson
     else:
         printerror('Game not found!\n')
-        sleep(1.5)
+        sleep(1)
         return False
 
 def getversions(gamejson,versionn):
@@ -179,8 +188,9 @@ def main():
     for game in dbj:
         gamecount+=1
     def printinitial():
-        printcolor(banner)
+        printcolor(banner + "\n")
         printcolor(f">Version {version}")
+        printcolor(f">DB Version {dbversion}")
         printcolor(f">{gamecount} Games in total")
         print()
         print()
@@ -203,7 +213,7 @@ def main():
             except:
                 go=0
                 printerror('Insert only numbers!')
-                sleep(3)
+                sleep(1.5)
             if go==1:
                     game=getgame(cmd)
                     if game==False:
