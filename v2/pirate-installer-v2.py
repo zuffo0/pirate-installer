@@ -57,8 +57,8 @@ while True:
     if gitdbversion.status_code==200:
         break
 if version!=gitversion.text.strip():
-    printgreen('New client installer avaiable, install? (y/n)')
-    print(f"Your version: {version}\nGithub version: {gitversion}")
+    printgreen('New client update avaiable, install? (y/n)')
+    print(f"Your version: {version}\nGithub version: {gitversion.text.strip()}")
     cmd=input(">")
     go=0
     try:
@@ -87,7 +87,7 @@ if version!=gitversion.text.strip():
             exit()
 if dbversion!=gitdbversion.text.strip():
     printgreen('New database update avaiable, install? (y/n)')
-    print(f"Your version: {dbversion}\nGithub version: {gitdbversion}")
+    print(f"Your version: {dbversion}\nGithub version: {gitdbversion.text.strip()}")
     cmd=input(">")
     go=0
     try:
