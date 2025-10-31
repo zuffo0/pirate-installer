@@ -46,9 +46,17 @@ version=open('src/version')
 version=version.read().strip()
 dbversion=open('src/dbversion','r')
 dbversion=dbversion.read().strip()
-gitversion = get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/version').text.strip()
-gitdbversion = get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/dbversion').text.strip()
-if version!=gitversion:
+printgreen("Checking program version...")
+while True:
+    gitversion = get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/version')
+    if gitversion.status_code==200:
+        break
+printgreen("Checking database version...")
+while True:
+    gitdbversion = get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/dbversion')
+    if gitdbversion.status_code==200:
+        break
+if version!=gitversion.text.strip():
     printgreen('New client installer avaiable, install? (y/n)')
     print(f"Your version: {version}\nGithub version: {gitversion}")
     cmd=input(">")
@@ -60,7 +68,11 @@ if version!=gitversion:
         print('Write only letters.')
     if go==1:
         if cmd.lower()=='y':
-            program=get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/pirate-installer-v2.py').text
+            while True:
+                program=get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/pirate-installer-v2.py')
+                if program.status_code==200:
+                    break
+            program=program.text
             with open('pirate-installer-v2.py','w') as file:
                 file.write(program)
             with open('src/version','w') as file:
@@ -73,7 +85,7 @@ if version!=gitversion:
                 system('python3 pirate-installer-v2.py')
             del program
             exit()
-if dbversion!=gitdbversion:
+if dbversion!=gitdbversion.text.strip():
     printgreen('New database update avaiable, install? (y/n)')
     print(f"Your version: {dbversion}\nGithub version: {gitdbversion}")
     cmd=input(">")
@@ -85,7 +97,11 @@ if dbversion!=gitdbversion:
         print('Insert only letters')
     if go==1:
         if cmd.lower()=='y':
-            gitdb=get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/games.json').text
+            while True:
+                gitdb=get('https://raw.githubusercontent.com/zuffo0/pirate-installer/refs/heads/main/v2/src/games.json')
+                if gitdb.status_code==200:
+                    break
+            gitdb=gitdb.text
             with open('src/games.json','w') as file:
                 file.write(gitdb)
             with open('src/dbversion','w') as file:
