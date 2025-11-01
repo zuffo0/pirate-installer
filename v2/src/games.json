@@ -46,6 +46,13 @@
                     "dlc": "False",
                     "gamelength": "6.56 GB",
                     "dateadded": "11/10/2025"
+                },
+                {
+                    "version": "83031",
+                    "downloadlink": "https://www.mediafire.com/file/ga1snxlrdfqdtu9/",
+                    "dlc": "False",
+                    "gamelength": "6.55 GB",
+                    "dateadded": "30/10/2025"
                 }
             ]
         }
@@ -393,6 +400,141 @@
                     "dlc": "False",
                     "gamelength": "14 GB",
                     "dateadded": "12/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "gamename": "Fears to Fathom - Norwood Hitchhike - Episode 2",
+        "game": {
+            "versions": [
+                {
+                    "version": "v1.6",
+                    "downloadlink": "https://www.mediafire.com/file/enqcpeio3vvdk3h/",
+                    "dlc": "False",
+                    "gamelength": "6.3 GB",
+                    "dateadded": "31/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "gamename": "Fears to Fathom - Carson House - Episode 3",
+        "game": {
+            "versions": [
+                {
+                    "version": "v1.6",
+                    "downloadlink": "https://www.mediafire.com/file/p14rrxr2gs2vkfl/",
+                    "dlc": "False",
+                    "gamelength": "5.6 GB",
+                    "dateadded": "31/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "gamename": "Fears to Fathom - Woodbury Getaway",
+        "game": {
+            "versions": [
+                {
+                    "version": "v1.14",
+                    "downloadlink": "https://www.mediafire.com/file/pno3g2psqg21wwu/",
+                    "dlc": "False",
+                    "gamelength": "8.86 GB",
+                    "dateadded": "31/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "gamename": "Fears to Fathom - Ironbark Lookout",
+        "game": {
+            "versions": [
+                {
+                    "version": "v1.6",
+                    "downloadlink": "https://www.mediafire.com/file/0jvg4lh8f06t19i/",
+                    "dlc": "False",
+                    "gamelength": "3.28 GB",
+                    "dateadded": "31/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "gamename": "Hue",
+        "game": {
+            "versions": [
+                {
+                    "version": "",
+                    "downloadlink": "https://www.mediafire.com/file/3v1h5ljfznq3adg/",
+                    "dlc": "False",
+                    "gamelength": "317 MB",
+                    "dateadded": "31/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "gamename": "The Forest",
+        "game": {
+            "versions": [
+                {
+                    "version": "5.6.5.1082900",
+                    "downloadlink": "https://www.mediafire.com/file/3b6f2qswox7oj0k/",
+                    "dlc": "False",
+                    "gamelength": "5.54 GB",
+                    "dateadded": "31/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "gamename": "Schedule I",
+        "game": {
+            "versions": [
+                {
+                    "version": "v0.4.0f9",
+                    "downloadlink": "https://www.mediafire.com/file/q1bm1j7tfpwm7o0/",
+                    "dlc": "False",
+                    "gamelength": "7.17 GB",
+                    "dateadded": "31/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "gamename": "RV There Yet",
+        "game": {
+            "versions": [
+                {
+                    "version": "v1.0.14299",
+                    "downloadlink": "https://www.mediafire.com/file/0fp8bu08gxtme96/",
+                    "dlc": "False",
+                    "gamelength": "3.25 GB",
+                    "dateadded": "31/10/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "gamename": "PEAK",
+        "game": {
+            "versions": [
+                {
+                    "version": "v1.34.a",
+                    "downloadlink": "https://www.mediafire.com/file/pgfmk7bos55hwos/",
+                    "dlc": "False",
+                    "gamelength": "7.82 GB",
+                    "dateadded": "31/10/2025"
                 }
             ]
         }
