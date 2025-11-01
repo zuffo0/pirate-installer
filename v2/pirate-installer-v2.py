@@ -76,7 +76,7 @@ if version!=gitversion.text.strip():
             with open('pirate-installer-v2.py','w') as file:
                 file.write(program)
             with open('src/version','w') as file:
-                file.write(gitversion)
+                file.write(gitversion.text.strip())
             print('Client updated!')
             sleep(1)
             if osname=='nt':
@@ -105,7 +105,7 @@ if dbversion!=gitdbversion.text.strip():
             with open('src/games.json','w') as file:
                 file.write(gitdb)
             with open('src/dbversion','w') as file:
-                file.write(gitdbversion)
+                file.write(gitdbversion.text.strip())
             print('Games database updated!')
             sleep(1)
             del gitdb
