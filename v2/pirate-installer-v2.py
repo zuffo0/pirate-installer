@@ -120,8 +120,9 @@ banner=r'''
 |_|    |_|_|   \_||_|\___)____)  |_|_| |_(___/ \___)_||_|_|_|\____)_|    
 
 
->Made and Scripted by zufinho
+>Made and scripted by zufinho
 >https://github.com/zuffo0
+> zkf0 on discord
 '''
 #script starts
 
@@ -171,7 +172,7 @@ def searchgame(name):
                         versions=0
                         for v in gm['game']['versions']:
                             versions+=1
-                        printcolor(f'Q. Versions: {versions}')
+                        printcolor(f'Q. Of versions: {versions}')
                         print()
         else:
             printerror('No games found.')
@@ -187,11 +188,11 @@ def getgame(id):
             printgreen('Game Found!\n')
             break
     if found==1:
-        sleep(1)
+        sleep(0.5)
         return gamejson
     else:
         printerror('Game not found!\n')
-        sleep(1)
+        input("Press any key to continue")
         return False
 
 def getversions(gamejson,versionn):
@@ -306,7 +307,7 @@ def main():
             clear()
             printinitial()
             printcolor("What's is this program?")
-            printcolor('This program is a client to download games, having a "database" with games and their download links, ALL THE GAMES IS TESTED!')
+            printcolor('This program is a client to download games, having a "database" with games and their download links, ALL THE GAMES WAS TESTED BEFORE UPLOAD!')
             print()
             printcolor("How it's work?")
             printcolor("It's works with IDs, every game have an ID, you can see at searching by game name or in list of games, to get a link of download from any game u need the game id.")

@@ -2,13 +2,19 @@
     {
         "id": 0,
         "gamename": "Terraria",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
                     "version": "1.4.4.9.v4",
                     "downloadlink": "https://www.mediafire.com/file/z537rywpsprfgba/",
                     "dlc": "False",
-                    "gamelength": "503.71 MB (COMPACTED)",
+                    "gamelength": "503.71 MB (COMPRESSED)",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "Unknown",
+                    "multiplayer": -1,
+                    "source": "Unknown",
                     "dateadded": "30/01/2025"
                 }
             ]
@@ -17,20 +23,31 @@
     {
         "id": 1,
         "gamename": "Subnautica",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
                     "version": "67383",
                     "downloadlink": "https://drive.google.com/uc?id=1EHesVYWpAMeI4EjTGKOibWMDXdUnZzEY&export=download",
                     "dlc": "False",
-                    "gamelength": "3.65 GB (COMPACTED)",
+                    "gamelength": "3.65 GB (COMPRESSED)",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "Unknown",
+                    "multiplayer": -1,
+                    "source": "Unknown",
                     "dateadded": "30/01/2025"
                 },
                 {
                     "version": "71668",
                     "downloadlink": "https://www.mediafire.com/file/f893xhzl0ynn1g0/",
                     "dlc": "False",
-                    "gamelength": "3.32 GB (COMPACTED)",
+                    "gamelength": "3.32 GB (COMPRESSED)",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "Unknown",
+                    "multiplayer": -1,
+                    "source": "Unknown",
                     "dateadded": "30/01/2025"
                 },
                 {
@@ -38,6 +55,11 @@
                     "downloadlink": "https://www.mediafire.com/file/9bk9jsex23z9xqb/",
                     "dlc": "False",
                     "gamelength": "6.62 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "Unknown",
+                    "multiplayer": -1,
+                    "source": "Unknown",
                     "dateadded": "30/01/2025"
                 },
                 {
@@ -45,6 +67,11 @@
                     "downloadlink": "https://www.mediafire.com/file/ga1snxlrdfqdtu9/",
                     "dlc": "False",
                     "gamelength": "6.56 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "Unknown",
+                    "multiplayer": -1,
+                    "source": "Unknown",
                     "dateadded": "11/10/2025"
                 },
                 {
@@ -52,6 +79,11 @@
                     "downloadlink": "https://www.mediafire.com/file/ga1snxlrdfqdtu9/",
                     "dlc": "False",
                     "gamelength": "6.55 GB",
+                    "compressedlenght": "2.57 GB",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": 0,
+                    "source": "",
                     "dateadded": "30/10/2025"
                 }
             ]
@@ -60,6 +92,7 @@
     {
         "id": 2,
         "gamename": "Factorio",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -67,6 +100,11 @@
                     "downloadlink": "https://www.mediafire.com/file/1a3sfg77ptjbx0x/",
                     "dlc": "False",
                     "gamelength": "4.68 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "30/01/2025"
                 },
                 {
@@ -74,6 +112,23 @@
                     "downloadlink": "https://www.mediafire.com/file/dletsk7z81znyug/",
                     "dlc": "True",
                     "gamelength": "5 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
+                    "dateadded": "30/01/2025"
+                },
+                {
+                    "version": "2.0.72 Space Age",
+                    "downloadlink": "https://www.mediafire.com/file/nj7ir6jc8vitfqr/",
+                    "dlc": "True",
+                    "gamelength": "4,72 GB GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "30/01/2025"
                 }
             ]
@@ -82,6 +137,7 @@
     {
         "id": 3,
         "gamename": "60 Seconds Reatomized",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -89,6 +145,11 @@
                     "downloadlink": "https://www.mediafire.com/file/tn266egbmdfh40w/",
                     "dlc": "False",
                     "gamelength": "2.51 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "30/01/2025"
                 }
             ]
@@ -97,6 +158,7 @@
     {
         "id": 4,
         "gamename": "Papers, Please",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -104,6 +166,11 @@
                     "downloadlink": "https://www.mediafire.com/file/xt0o4818naxgcsp/",
                     "dlc": "False",
                     "gamelength": "94.4 MB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "30/01/2025"
                 }
             ]
@@ -112,6 +179,7 @@
     {
         "id": 5,
         "gamename": "Rimworld",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -119,6 +187,11 @@
                     "downloadlink": "https://www.mediafire.com/file/1hz9bfvtg8ol3u0/",
                     "dlc": "True",
                     "gamelength": "653 MB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "30/01/2025"
                 },
                 {
@@ -126,6 +199,11 @@
                     "downloadlink": "https://www.mediafire.com/file/wrtptkfga743dpc/",
                     "dlc": "True",
                     "gamelength": "924 MB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "11/10/2025"
                 }
             ]
@@ -134,6 +212,7 @@
     {
         "id": 6,
         "gamename": "Oxygen Not Included",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -141,6 +220,11 @@
                     "downloadlink": "https://www.mediafire.com/file/8po0nbgoqystqng/",
                     "dlc": "True",
                     "gamelength": "2.85 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "30/01/2025"
                 },
                 {
@@ -148,6 +232,11 @@
                     "downloadlink": "https://www.mediafire.com/file/lqjfoapyjfsvsov/",
                     "dlc": "True",
                     "gamelength": "3.00 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "30/01/2025"
                 }
             ]
@@ -156,6 +245,7 @@
     {
         "id": 7,
         "gamename": "Lethal Company",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -163,6 +253,11 @@
                     "downloadlink": "https://www.mediafire.com/file/7ju8vfl12ec2pk8/",
                     "dlc": "False",
                     "gamelength": "1.06 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 },
                 {
@@ -170,6 +265,11 @@
                     "downloadlink": "https://www.mediafire.com/file/60sjq3ez1rhx3r7/",
                     "dlc": "False",
                     "gamelength": "1.12 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 },
                 {
@@ -177,6 +277,11 @@
                     "downloadlink": "https://www.mediafire.com/file/gl1n9inx6toergk/",
                     "dlc": "False",
                     "gamelength": "1.38 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "11/10/2025"
                 }
             ]
@@ -185,6 +290,7 @@
     {
         "id": 8,
         "gamename": "Stardew Valley",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -192,6 +298,11 @@
                     "downloadlink": "https://www.mediafire.com/file/aicc79wfe5kr0n7/",
                     "dlc": "False",
                     "gamelength": "894 MB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 },
                 {
@@ -199,6 +310,11 @@
                     "downloadlink": "https://www.mediafire.com/file/sezosh5v395k8ml/",
                     "dlc": "False",
                     "gamelength": "905 MB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "11/10/2025"
                 }
             ]
@@ -207,6 +323,7 @@
     {
         "id": 9,
         "gamename": "Hollow Knight",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -214,6 +331,11 @@
                     "downloadlink": "https://www.mediafire.com/file/fc3nwcyr1xuwtxg/",
                     "dlc": "False",
                     "gamelength": "7.5 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 }
             ]
@@ -222,6 +344,7 @@
     {
         "id": 10,
         "gamename": "Cuphead",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -229,6 +352,11 @@
                     "downloadlink": "https://www.mediafire.com/file/0gigdv8zvqglq3v/",
                     "dlc": "True",
                     "gamelength": "5.44 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 }
             ]
@@ -237,6 +365,7 @@
     {
         "id": 11,
         "gamename": "Ultrakill",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -244,6 +373,11 @@
                     "downloadlink": "https://www.mediafire.com/file/fqlu0uxadmwyns9/",
                     "dlc": "False",
                     "gamelength": "1.86 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 },
                 {
@@ -251,6 +385,11 @@
                     "downloadlink": "https://www.mediafire.com/file/dgkpkknlx7s7bnw/",
                     "dlc": "False",
                     "gamelength": "2.66 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "11/10/2025"
                 }
             ]
@@ -259,6 +398,7 @@
     {
         "id": 12,
         "gamename": "Devil May Cry 3 Special Edition",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -266,6 +406,11 @@
                     "downloadlink": "https://www.mediafire.com/file/ysg2rgnvnj2uwws/",
                     "dlc": "False",
                     "gamelength": "4.57 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 }
             ]
@@ -274,6 +419,7 @@
     {
         "id": 13,
         "gamename": "DmC: Devil May Cry",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -281,6 +427,11 @@
                     "downloadlink": "https://www.mediafire.com/file/yhx4mxu67ka3qmc/",
                     "dlc": "False",
                     "gamelength": "10.7 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 }
             ]
@@ -289,6 +440,7 @@
     {
         "id": 14,
         "gamename": "ASTRONEER",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -296,6 +448,11 @@
                     "downloadlink": "https://www.mediafire.com/file/kgz6sqy60o5cfo5/",
                     "dlc": "True",
                     "gamelength": "2.91 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 },
                 {
@@ -303,6 +460,11 @@
                     "downloadlink": "https://www.mediafire.com/file/18oiq6b4oowzdyo/",
                     "dlc": "True",
                     "gamelength": "2.93 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 },
                 {
@@ -310,6 +472,11 @@
                     "downloadlink": "https://www.mediafire.com/file/70d5xwsulu1nk6c/",
                     "dlc": "False",
                     "gamelength": "2.92 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "12/10/2025"
                 }
             ]
@@ -318,6 +485,7 @@
     {
         "id": 15,
         "gamename": "DREDGE",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -325,6 +493,11 @@
                     "downloadlink": "https://www.mediafire.com/file/r6tlbqprxsjg6fa/",
                     "dlc": "True",
                     "gamelength": "759 MB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 }
             ]
@@ -333,6 +506,7 @@
     {
         "id": 16,
         "gamename": "Project Zomboid",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -340,6 +514,11 @@
                     "downloadlink": "https://www.mediafire.com/file/icmy4ajbx67p0g7/",
                     "dlc": "False",
                     "gamelength": "6.96 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 },
                 {
@@ -347,6 +526,11 @@
                     "downloadlink": "https://www.mediafire.com/file/3600on9cy0xhfj9/",
                     "dlc": "False",
                     "gamelength": "10.3 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 },
                 {
@@ -354,6 +538,11 @@
                     "downloadlink": "https://www.mediafire.com/file/vut4do6sccf0du6/",
                     "dlc": "False",
                     "gamelength": "9.63 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "12/10/2025"
                 }
             ]
@@ -362,6 +551,7 @@
     {
         "id": 17,
         "gamename": "JoJo's Bizarre Adventure: All-Star Battle R",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -369,6 +559,11 @@
                     "downloadlink": "https://www.mediafire.com/file/ihq585ghbf9o71c/",
                     "dlc": "False",
                     "gamelength": "5.07 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "08/02/2025"
                 }
             ]
@@ -377,6 +572,7 @@
     {
         "id": 18,
         "gamename": "Hollow Knight Silksong",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -384,6 +580,11 @@
                     "downloadlink": "https://www.mediafire.com/file/g5u2p7jm27ijvwe/",
                     "dlc": "False",
                     "gamelength": "9.77 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "11/10/2025"
                 }
             ]
@@ -392,6 +593,7 @@
     {
         "id": 19,
         "gamename": "Left 4 Dead 2",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -399,6 +601,11 @@
                     "downloadlink": "https://www.mediafire.com/file/7uqxlo5bgz9ybaf/",
                     "dlc": "False",
                     "gamelength": "14 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "12/10/2025"
                 }
             ]
@@ -407,6 +614,7 @@
     {
         "id": 20,
         "gamename": "Fears to Fathom - Norwood Hitchhike - Episode 2",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -414,6 +622,11 @@
                     "downloadlink": "https://www.mediafire.com/file/enqcpeio3vvdk3h/",
                     "dlc": "False",
                     "gamelength": "6.3 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
                 }
             ]
@@ -422,6 +635,7 @@
     {
         "id": 21,
         "gamename": "Fears to Fathom - Carson House - Episode 3",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -429,6 +643,11 @@
                     "downloadlink": "https://www.mediafire.com/file/p14rrxr2gs2vkfl/",
                     "dlc": "False",
                     "gamelength": "5.6 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
                 }
             ]
@@ -437,6 +656,7 @@
     {
         "id": 22,
         "gamename": "Fears to Fathom - Woodbury Getaway",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -444,6 +664,11 @@
                     "downloadlink": "https://www.mediafire.com/file/pno3g2psqg21wwu/",
                     "dlc": "False",
                     "gamelength": "8.86 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
                 }
             ]
@@ -452,6 +677,7 @@
     {
         "id": 23,
         "gamename": "Fears to Fathom - Ironbark Lookout",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -459,6 +685,11 @@
                     "downloadlink": "https://www.mediafire.com/file/0jvg4lh8f06t19i/",
                     "dlc": "False",
                     "gamelength": "3.28 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
                 }
             ]
@@ -467,6 +698,7 @@
     {
         "id": 24,
         "gamename": "Hue",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
@@ -474,6 +706,11 @@
                     "downloadlink": "https://www.mediafire.com/file/3v1h5ljfznq3adg/",
                     "dlc": "False",
                     "gamelength": "317 MB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
                 }
             ]
@@ -482,13 +719,19 @@
     {
         "id": 25,
         "gamename": "The Forest",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
-                    "version": "5.6.5.1082900",
+                    "version": "-",
                     "downloadlink": "https://www.mediafire.com/file/3b6f2qswox7oj0k/",
                     "dlc": "False",
                     "gamelength": "5.54 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
                 }
             ]
@@ -497,14 +740,32 @@
     {
         "id": 26,
         "gamename": "Schedule I",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
-                    "version": "v0.4.0f9",
+                    "version": "0.4.0f9",
                     "downloadlink": "https://www.mediafire.com/file/q1bm1j7tfpwm7o0/",
                     "dlc": "False",
                     "gamelength": "7.17 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
+                },
+                {
+                    "version": "0.4.1f13",
+                    "downloadlink": "https://www.mediafire.com/file/ua1yel0k39c47kk/",
+                    "dlc": "False",
+                    "gamelength": "7.18 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
+                    "dateadded": "25/11/2025"
                 }
             ]
         }
@@ -512,13 +773,19 @@
     {
         "id": 27,
         "gamename": "RV There Yet",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
-                    "version": "v1.0.14299",
+                    "version": "1.0.14299",
                     "downloadlink": "https://www.mediafire.com/file/0fp8bu08gxtme96/",
                     "dlc": "False",
                     "gamelength": "3.25 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
                 }
             ]
@@ -527,14 +794,53 @@
     {
         "id": 28,
         "gamename": "PEAK",
+        "steamid": 0,
         "game": {
             "versions": [
                 {
-                    "version": "v1.34.a",
+                    "version": "1.34.a",
                     "downloadlink": "https://www.mediafire.com/file/pgfmk7bos55hwos/",
                     "dlc": "False",
                     "gamelength": "7.82 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
                     "dateadded": "31/10/2025"
+                },
+                {
+                    "version": "1.46.a",
+                    "downloadlink": "https://www.mediafire.com/file/nyzpizmpg1ndeza/",
+                    "dlc": "False",
+                    "gamelength": "5.71 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
+                    "dateadded": "25/11/2025"
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "gamename": "Escape from Duckov",
+        "steamid": 0,
+        "game": {
+            "versions": [
+                {
+                    "version": "1.2.5",
+                    "downloadlink": "https://www.mediafire.com/file/b0bab9iyqn6mig7/",
+                    "dlc": "False",
+                    "gamelength": "2.16 GB",
+                    "compressedlenght": "",
+                    "versionrelease": "",
+                    "cracktype": "",
+                    "multiplayer": -1,
+                    "source": "",
+                    "dateadded": "25/11/2025"
                 }
             ]
         }
